@@ -5,7 +5,7 @@ h2{font-size:22px;margin:36px 0 8px;color:var(--gold)}p,li{color:var(--paper)}sm
 nav{display:flex;gap:18px;flex-wrap:wrap;margin:28px 0 0}hr{border:0;border-top:1px solid #2a2a2e;margin:40px 0}
 /* accueil (10/10/2026) */
 .accueil main{padding-top:0;max-width:760px}
-.hero{max-width:1100px;margin:0 auto}.banniere{width:100%;aspect-ratio:2560/900;object-fit:cover;object-position:50% 52%;display:block;border-radius:0 0 18px 18px}
+.hero{max-width:1100px;margin:0 auto}.banniere{width:100%;aspect-ratio:2560/900;object-fit:cover;object-position:50% 50%;display:block;border-radius:0 0 18px 18px}
 .identite{text-align:center;margin-top:-64px}.avatar{width:128px;height:128px;border-radius:50%;border:4px solid var(--gold);box-shadow:0 8px 30px rgba(0,0,0,.6);background:#000}
 .identite h1{margin:12px 0 4px}.slogan{font-size:20px;margin:0}.identite .muted{margin:6px 0 0}
 .reseaux{display:flex;flex-direction:column;gap:12px;margin:30px auto 10px;max-width:440px}
